@@ -1,0 +1,14 @@
+[book]
+title = "Katolinen katekismus (1905)"
+authors = ["Viktor Pietkiewicz"]
+description = "Katolinen katekismus julkaissut Viktor Pietkiewicz, Viipurin ja Helsingin kirkkoherra. Helsingissä, 1905."
+language = "fi"
+multilingual = false
+src = "src"
+
+[output.html]
+curly-quotes = true
+
+[output.html.font]
+enable = true
+woff = true

@@ -1,0 +1,3 @@
+# Apostolinen uskontunnustus
+
+Uskon Jumalaan, kaikkivaltiaaseen Isään, taivan ja maan luojaan. Ja Jeesukseen Kristukseen, hänen ainoaan Poikaansa, meidän Herraamme; joka sikisi Pyhästä Hengestä, syntyi neitsyt Mariasta; kärsi Pontus Pilatuksen aikana, ristiinnaulittin, kuoli ja haudattiin; astui alas helvettiin, kolmantena päivänä nousi jälleen kuolleista; astui ylös taivaisiin, istuu Jumalan kaikkivaltiaan Isän oikealla kädellä; sieltä on tuleva tuomitsemaan eläviä ja kuolleita. Uskon Pyhään Henkeen; pyhään katoliseen kirkkoon, pyhäin yhteyden; syntein anteeksi saamisen; ruumiin ylösnousemisen; ja iankaikkisen elämän. Amen.
